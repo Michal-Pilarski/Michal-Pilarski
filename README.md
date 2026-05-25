@@ -1,14 +1,12 @@
-<h1>Hi there, </h1> 
+<h1 align="center">Hi there, </h1> 
 
-### Known languages and technologies
-<p align="center">
+
+### 🛠️ Tech stack
+<p>
   <a href="https://skillicons.dev">
-    <h4>Web development</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,bootstrap,django,figma,vite" />
-    <h4>Version control</h4>
-    <img src="https://skillicons.dev/icons?i=git,github" />
-    <h4>Other</h4>
-    <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,linux" /> <br>
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,git,docker" />
+    <h4>Frontend</h4>
+    <img src="https://skillicons.dev/icons?i=html,css,ts,vue,react,tailwind,bootstrap,figma" />
   </a>
 </p>
 
